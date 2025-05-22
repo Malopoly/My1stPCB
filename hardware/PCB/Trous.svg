@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300.43 199.98">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: #231f20;
+      }
+
+      .cls-2 {
+        stroke: #231f20;
+        stroke-miterlimit: 10;
+        stroke-width: .25px;
+      }
+    </style>
+  </defs>
+  <g id="petit_trous">
+    <circle class="cls-2" cx="164.68" cy="118.51" r="1.13"/>
+    <circle class="cls-2" cx="176.16" cy="118.51" r="1.13"/>
+    <circle class="cls-2" cx="163.9" cy="136.3" r="1.13"/>
+    <circle class="cls-2" cx="176.6" cy="136.3" r="1.13"/>
+    <circle class="cls-2" cx="53.28" cy="142.52" r="1.13"/>
+    <circle class="cls-2" cx="60.48" cy="142.52" r="1.13"/>
+    <circle class="cls-2" cx="67.68" cy="142.52" r="1.13"/>
+    <circle class="cls-2" cx="74.88" cy="142.52" r="1.13"/>
+    <circle class="cls-2" cx="82.08" cy="142.52" r="1.13"/>
+    <circle class="cls-2" cx="188.23" cy="91.6" r="1.13"/>
+    <circle class="cls-2" cx="195.43" cy="91.6" r="1.13"/>
+    <circle class="cls-2" cx="202.63" cy="91.6" r="1.13"/>
+    <circle class="cls-2" cx="209.83" cy="91.6" r="1.13"/>
+    <circle class="cls-2" cx="217.03" cy="91.6" r="1.13"/>
+    <circle class="cls-2" cx="224.23" cy="91.6" r="1.13"/>
+    <circle class="cls-2" cx="231.43" cy="91.6" r="1.13"/>
+    <circle class="cls-2" cx="188.23" cy="134.8" r="1.13"/>
+    <circle class="cls-2" cx="195.43" cy="134.8" r="1.13"/>
+    <circle class="cls-2" cx="202.63" cy="134.8" r="1.13"/>
+    <circle class="cls-2" cx="209.83" cy="134.8" r="1.13"/>
+    <circle class="cls-2" cx="217.03" cy="134.8" r="1.13"/>
+    <circle class="cls-2" cx="224.23" cy="134.8" r="1.13"/>
+    <circle class="cls-2" cx="231.43" cy="134.8" r="1.13"/>
+    <circle class="cls-2" cx="91.28" cy="103.37" r="1.13"/>
+    <circle class="cls-2" cx="98.48" cy="103.37" r="1.13"/>
+    <circle class="cls-2" cx="105.98" cy="103.37" r="1.13"/>
+    <circle class="cls-2" cx="113.27" cy="103.37" r="1.13"/>
+    <circle class="cls-2" cx="120.39" cy="103.41" r="1.13"/>
+    <circle class="cls-2" cx="127.64" cy="103.4" r="1.13"/>
+    <circle class="cls-2" cx="135.13" cy="103.4" r="1.13"/>
+    <circle class="cls-2" cx="142.33" cy="103.41" r="1.13"/>
+  </g>
+  <g id="VIS">
+    <circle class="cls-1" cx="271.9" cy="24.32" r="2.83"/>
+    <circle class="cls-1" cx="271.9" cy="166.87" r="2.83"/>
+    <circle class="cls-1" cx="50.07" cy="171.19" r="2.83"/>
+    <circle class="cls-1" cx="52.9" cy="21.48" r="2.83"/>
+  </g>
+</svg>
